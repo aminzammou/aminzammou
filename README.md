@@ -1,16 +1,18 @@
 ### Hi there 👋
+Welkom on my Github Page, here you can find more information about the projects i have made. You could also check my [linkedin page](https://www.linkedin.com/in/amin-zammou-a99a41135/).
 
-<!--
-**aminzammou/aminzammou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some things about me:
+
+- 🔭 I’m currently working on an project for Raillinkssystem
+- 🌱 I’m currently learning the language C#
+- 🏫 I’m currently a student at: HBO-ICT at Utrecht University of applied science
+- 📫 How to reach me: at aminzammou@hotmail.com or at my [linkedin page](https://www.linkedin.com/in/amin-zammou-a99a41135/)
+
+Used languages:
+- :heavy_check_mark:: Python
+- :heavy_check_mark:: Java
+- :heavy_check_mark:: Javascript
+- :heavy_check_mark:: Web (JS, HTML, CSS)  
+
