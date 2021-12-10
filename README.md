@@ -14,6 +14,7 @@ Used languages:
 - :heavy_check_mark:: Python
 - :heavy_check_mark:: Java 
 - :heavy_check_mark:: C#
+- :heavy_check_mark:: SQL
 - :heavy_check_mark:: Web (JS, HTML, CSS)
 
 Used:
@@ -23,5 +24,4 @@ Used:
 - :heavy_check_mark:: Spring Boot
 - :heavy_check_mark:: Intelij
 - :heavy_check_mark:: PostgreSQL
-- :heavy_check_mark:: SQL
 
