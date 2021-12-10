@@ -12,7 +12,17 @@ Here are some things about me:
 
 Used languages:
 - :heavy_check_mark:: Python
-- :heavy_check_mark:: Java
+- :heavy_check_mark:: Java 
+- :heavy_check_mark:: C#
 - :heavy_check_mark:: Javascript
-- :heavy_check_mark:: Web (JS, HTML, CSS)  
+- :heavy_check_mark:: Web (JS, HTML, CSS)
+
+Used:
+- :heavy_check_mark:: Docker
+- :heavy_check_mark:: MongoDB
+- :heavy_check_mark:: Rabbitmq
+- :heavy_check_mark:: Spring Boot
+- :heavy_check_mark:: Intelij
+- :heavy_check_mark:: PostgreSQL
+- :heavy_check_mark:: SQL
 
