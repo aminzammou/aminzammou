@@ -14,7 +14,6 @@ Used languages:
 - :heavy_check_mark:: Python
 - :heavy_check_mark:: Java 
 - :heavy_check_mark:: C#
-- :heavy_check_mark:: Javascript
 - :heavy_check_mark:: Web (JS, HTML, CSS)
 
 Used:
