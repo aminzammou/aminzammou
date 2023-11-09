@@ -5,9 +5,9 @@ Welkom on my Github Page, here you can find more information about the projects 
 
 Here are some things about me:
 
-- 🔭 I’m currently working on an project for Fynch mobile
-- 🌱 I’m currently learning the language C#
-- 🏫 I’m currently a student at: HBO-ICT at Utrecht University of applied science
+- 🔭 I’m currently learning for the OCA
+- 🌱 I’m currently learning kafka
+- 🏫 HBO-ICT at Utrecht University of applied science
 - 📫 How to reach me: at aminzammou@hotmail.com or at my [linkedin page](https://www.linkedin.com/in/amin-zammou-a99a41135/)
 
 Used languages:
